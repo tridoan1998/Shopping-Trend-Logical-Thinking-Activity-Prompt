@@ -14,8 +14,7 @@ Hence, disregard the work above as it is only useful for a full stack web applic
 Move on to this tutorial: https://www.youtube.com/watch?v=Xa5lUd6Fq_c
 Convert from CSV to Excel to perform SQL code. CSV will have another version in Python if we have time.
 
-
-
+We will start working one question at a time, and it will be specially be label as one different branch for each commit to make sure if we make any mistakes along the way, we can fix it.
 
 
 TO-DO:
