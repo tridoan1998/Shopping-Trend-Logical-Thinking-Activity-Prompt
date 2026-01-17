@@ -9,9 +9,10 @@ Found out that I need to use Azure Data Studio because this will support MAC. Do
 Failed: This method still require me to have a SQL Server.
 Watching a Youtube video on how to make a SQL Server for MAC. (https://www.youtube.com/watch?v=glxE7w4D8v8)
 Finger out the solution is not from the above as these are not needed for the requirement for this work.
-Hence, disregard the work above. 
+Hence, disregard the work above as it is only useful for a full stack web application, but for aanlyst type of work, it generally better to just have a Microsoft Excel file and then perform SQL database Query code directly on there. 
 
 Move on to this tutorial: https://www.youtube.com/watch?v=Xa5lUd6Fq_c
+Convert from CSV to Excel to perform SQL code. CSV will have another version in Python if we have time.
 
 
 
