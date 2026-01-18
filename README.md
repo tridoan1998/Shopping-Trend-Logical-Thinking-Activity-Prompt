@@ -16,6 +16,11 @@ Convert from CSV to Excel to perform SQL code. CSV will have another version in 
 
 We will start working one question at a time, and it will be specially be label as one different branch for each commit to make sure if we make any mistakes along the way, we can fix it.
 
+Question 1 and 2 should be self explantory.
+
+Question 3 : 
+For this question the column we looking at is Age and Previous Purchase.
+Find the average age of customers who have made a purchase more than 5 times.
 
 TO-DO:
 insert security layers so only needed users can see. One way to do this is to map the object as key value pair so they don't need the real data but only the ID.
