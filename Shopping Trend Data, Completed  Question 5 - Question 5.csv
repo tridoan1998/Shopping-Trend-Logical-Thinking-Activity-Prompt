@@ -1,0 +1,29 @@
+Age Group (Number),Average Spend (Currency: $USD),Total Amount Spent (Currency: USD),Purchase Frequency (Number)
+Age is above 60,59.70124481,43164,723
+Age is between 18 and 25,60.64798599,34630,571
+Age is between 26 and 35,59.76010782,44342,742
+Age is between 36 and 45,59.30589849,43234,729
+Age is between 46 and 60,59.65726872,67711,1135
+,,,
+Analyst Note:,,,
+,,,
+,,,
+,,,
+Age Group (Number),Most Clothing Purchases (Number),,
+46–60,492,,
+,,,
+Age Group (Number),Least Clothing Purchases (Number),,
+18–25,269,,
+,,,
+Clothing Purchases Differences (Number),,,
+223,,,
+,,,
+Analyst Note: ,,,
+,,,
+,,,
+,,,
+Gender (String),Purchase Frequency (Number),Average Spend (Currency $USD),Total Amount Spent (Currency $USD)
+Female,1248,60.24919872,75191
+Male,2652,59.5361991,157890
+,,,
+Analyst Note:,,,
