@@ -1,0 +1,13 @@
+                                        MASTER Table
+ MASDC#  : inmate ID number
+ MASCNM  : inmate name
+ MASLC1  : inamte supervision (Facility, Parole, etc.)
+ MASLC2  : inmate facility
+ MASLC3  : inmate unit location
+ MASSOFF : indicates Sex Offenders.
+
+                                        IPPEXPN Table
+EXPNDCN  : inmate ID number
+EXPNDSC  : the Program name
+EXPNNCR  : indicates if completion credit was awarded
+EXPPSTAT : gives the current program status.
